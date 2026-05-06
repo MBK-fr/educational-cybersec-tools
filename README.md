@@ -1,5 +1,16 @@
 # 🛡️ Educational Cybersecurity Tools & Techniques
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/OmYarewar/educational-cybersec-tools?style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/OmYarewar/educational-cybersec-tools?style=for-the-badge&color=blue" alt="Forks" />
+  <img src="https://img.shields.io/github/license/OmYarewar/educational-cybersec-tools?style=for-the-badge&color=green" alt="License" />
+  <img src="https://img.shields.io/github/last-commit/OmYarewar/educational-cybersec-tools?style=for-the-badge&color=red" alt="Last Commit" />
+  <br>
+  <img src="https://img.shields.io/badge/Tools-150%2B-orange?style=for-the-badge" alt="Tools Count" />
+  <img src="https://img.shields.io/badge/Categories-15-blueviolet?style=for-the-badge" alt="Categories" />
+  <img src="https://img.shields.io/badge/Educational-Purposes%20Only-critical?style=for-the-badge" alt="Educational" />
+</p>
+
 > **⚠️ DISCLAIMER**: This repository is for **EDUCATIONAL PURPOSES ONLY**. All tools and techniques listed here are intended for ethical hacking, penetration testing, security research, and cybersecurity education. Unauthorized access to systems you do not own or have explicit permission to test is **illegal**. The repository owner assumes no liability for misuse.
 
 ---
@@ -396,6 +407,30 @@ This is a living document. If you know of tools or resources that should be here
 3. Submit a pull request
 
 Help keep this resource comprehensive and up-to-date for the community.
+
+## ⭐ Star History
+
+<p align="center">
+  <a href="https://star-history.com/#OmYarewar/educational-cybersec-tools&Date" target="_blank">
+    <img src="https://api.star-history.com/svg?repos=OmYarewar/educational-cybersec-tools&type=Date" alt="Star History Chart" width="600" />
+  </a>
+</p>
+
+## 📣 Share & Support
+
+If this resource helped you, drop a ⭐ and share it:
+
+<p align="center">
+  <a href="https://twitter.com/intent/tweet?text=Comprehensive%20cybersecurity%20toolkit%20-%20150%2B%20tools%20for%20ethical%20hacking,%20pentesting,%20OSINT,%20and%20more.%20All%20for%20educational%20purposes.%20Check%20it%20out:&url=https://github.com/OmYarewar/educational-cybersec-tools" target="_blank">
+    <img src="https://img.shields.io/badge/Share_on-Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Share on Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/OmYarewar/educational-cybersec-tools" target="_blank">
+    <img src="https://img.shields.io/badge/Share_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Share on LinkedIn" />
+  </a>
+  <a href="https://www.reddit.com/submit?url=https://github.com/OmYarewar/educational-cybersec-tools&title=Educational%20Cybersecurity%20Tools%20-%20150%2B%20Tools%20Collection" target="_blank">
+    <img src="https://img.shields.io/badge/Share_on-Reddit-FF4500?style=for-the-badge&logo=reddit" alt="Share on Reddit" />
+  </a>
+</p>
 
 ---
 
