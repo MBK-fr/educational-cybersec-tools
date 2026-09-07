@@ -42,6 +42,7 @@
 | Tool | Description | Link |
 |------|-------------|------|
 | **Nmap** | Industry-standard network discovery & port scanning | [nmap.org](https://nmap.org) |
+| **Darkmoon** | Autonomous pentest platform, 50 agents over MCP, reproducible proof of exploitation, self hosted | [Repo](https://github.com/ASCIT31/Dark-Moon) |
 | **Zenmap** | GUI for Nmap | [nmap.org/zenmap](https://nmap.org/zenmap) |
 | **Masscan** | Ultra-fast port scanner (internet-scale) | [github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) |
 | **RustScan** | Modern fast port scanner written in Rust | [github.com/RustScan/RustScan](https://github.com/RustScan/RustScan) |
